@@ -1,0 +1,32 @@
+:root {
+  // Font families — [уточнить] какой шрифт где именно используется в макете
+  --font-family-primary: 'Inter', sans-serif;
+  --font-family-secondary: 'Roboto', sans-serif;
+
+  // Font sizes — Display
+  --font-size-display-large: 56px;
+  --font-size-display-medium: 36px;
+  --font-size-display-small: 24px;
+
+  // Font sizes — Headline
+  --font-size-headline-large: 32px;
+  --font-size-headline-medium: 24px;
+  --font-size-headline-small: 20px;
+
+  // Font sizes — Body
+  --font-size-body-large: 18px;
+  --font-size-body-medium: 16px;
+  --font-size-body-small: 14px;
+
+  // Font sizes — Label
+  --font-size-label-extra-large: 16px;
+  --font-size-label-large: 14px;
+  --font-size-label-medium: 12px;
+  --font-size-label-small: 10px;
+
+  // Font weights
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --font-weight-extra-bold: 800;
+}
