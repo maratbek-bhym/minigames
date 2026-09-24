@@ -1,3 +1,5 @@
+import '../styles/globals.scss';
+
 const root = document.querySelector<HTMLElement>('#app');
 
 if (root) {
