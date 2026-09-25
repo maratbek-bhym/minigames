@@ -7,6 +7,7 @@ import { createElement } from '../utils/dom';
 import { createHomePage } from '../pages/home/home-page';
 import { createNotFoundPage } from '../pages/not-found/not-found-page';
 import { Router } from './router';
+import '../components/header/header.scss';
 
 const root = createElement('div', {
   attributes: {
