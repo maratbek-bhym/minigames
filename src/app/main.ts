@@ -8,6 +8,7 @@ import { createHomePage } from '../pages/home/home-page';
 import { createNotFoundPage } from '../pages/not-found/not-found-page';
 import { Router } from './router';
 import '../components/header/header.scss';
+import '../components/hero/hero.scss';
 
 const root = createElement('div', {
   attributes: {
