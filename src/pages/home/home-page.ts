@@ -3,6 +3,7 @@ import { createHeader, initHeaderInteractions } from '../../components/header/he
 import { createHero } from '../../components/hero/hero';
 import { createCarousel } from '../../components/carousel/carousel';
 import { createLeaderboard } from '../../components/leaderboard/leaderboard';
+import { createGameDevCta } from '../../components/game-dev-cta/game-dev-cta';
 
 export function createHomePage(): HTMLElement {
   const header = createHeader();
@@ -13,6 +14,7 @@ export function createHomePage(): HTMLElement {
       createHero(),
       createCarousel(),
       createLeaderboard(),
+      createGameDevCta(),
     ]),
   ]);
 

@@ -11,6 +11,7 @@ import '../components/header/header.scss';
 import '../components/hero/hero.scss';
 import '../components/carousel/carousel.scss';
 import '../components/leaderboard/leaderboard.scss';
+import '../components/game-dev-cta/game-dev-cta.scss';
 
 const root = createElement('div', {
   attributes: {
