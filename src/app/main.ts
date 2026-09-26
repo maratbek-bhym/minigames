@@ -10,6 +10,7 @@ import { Router } from './router';
 import '../components/header/header.scss';
 import '../components/hero/hero.scss';
 import '../components/carousel/carousel.scss';
+import '../components/leaderboard/leaderboard.scss';
 
 const root = createElement('div', {
   attributes: {
